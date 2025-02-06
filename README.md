@@ -11,6 +11,18 @@
     	year      = {2025},
 	}
 
+Also, check out our previously published paper from ICCV. 
+
+	@inproceedings{Hong_2021_ICCV,
+    	author    = {Hong, Je Hyeong and Yoo, Seong Jong and Zeeshan, Muhammad Arshad and Kim, Young Min and Kim, Jinwook},
+    	title     = {Structure-From-Sherds: Incremental 3D Reassembly of Axially Symmetric Pots From Unordered and Mixed Fragment Collections},
+    	journal   = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    	month     = {October},
+    	year      = {2021},
+    	pages     = {5443-5451}
+	}
+ 
+
 ## News
 - [2025/02/06] first release, dataset, main architecture.
 
