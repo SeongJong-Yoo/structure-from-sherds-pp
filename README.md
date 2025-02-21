@@ -25,6 +25,7 @@ Also, check out our previously published paper from ICCV.
  
 
 ## News
+- [2025/02/21] paper is released at [arXiv](https://arxiv.org/abs/2502.13986). 
 - [2025/02/06] first release, dataset, main architecture.
 
 ## Preprocessing 
