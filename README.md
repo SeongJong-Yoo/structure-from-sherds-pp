@@ -29,7 +29,7 @@ Also, check out our previously published paper from ICCV.
 - [2025/02/06] first release, dataset, main architecture.
 
 ## Preprocessing 
-- Preprocessing code will be released soon.
+The preprocessing code is now available in a [separate repository](https://github.com/DominicoRyu/SfSpp_preprocessing/tree/main)
 
 ## How to run
 ### Docker
